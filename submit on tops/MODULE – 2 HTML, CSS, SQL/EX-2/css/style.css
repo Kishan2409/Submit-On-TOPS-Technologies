@@ -1,0 +1,53 @@
+.container-fluid
+{
+    height: 657px;
+    background-color: purple;
+}
+.profile
+{
+    margin-top: 5%;
+    float: left;
+    margin-left: 1%;
+    height: 555px;
+}
+.border
+{
+    margin-top: 5%;
+    float: left;
+    height: 555px;
+    border-left: 5px solid black;
+}
+.prse
+{
+    margin-top: 5%;
+    float: left;
+    width: 48%;
+    height: 555px;
+}
+.excrcise
+{
+    float: left;
+    margin-top: 5%;
+    height: 555px;
+}
+.un
+{
+    width: 47%;
+    float: left;
+}
+.ex
+{
+    width: 40%;
+    float: left;
+}
+.sbt
+{
+    border: 0px;
+    background-color: purple;
+    border-radius: 8px ;
+    margin-left: 35%;
+    margin-top: 5%;
+    width: 25%;
+    height: 40px;
+    font-size: x-large;
+}
