@@ -1,0 +1,18 @@
+.he
+{
+    text-align: center;
+    height: 100px !important;
+    border: 5px solid orange;
+}
+.me
+{
+    text-align: center;
+    height: 450px !important;
+    border: 5px solid white;
+}
+.fo
+{
+    text-align: center;
+    height: 100px !important;
+    border: 5px solid green;
+}
