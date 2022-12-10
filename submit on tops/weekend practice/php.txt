@@ -1,0 +1,31 @@
+core php4 => 
+what is php
+operator
+variable
+variable handeling function
+function
+types of function
+array
+array function
+string 
+string functions
+data
+date function
+header 
+header function
+session 
+session function
+session practical erform
+super global variables
+get and post and request
+php statements loop
+conditions and programmes all logics
+
+
+                          a=a+b;
+                          b=a-b;
+                          a=a-b;
+
+                          temp=a;
+                          a=b;
+                          b=temp;
